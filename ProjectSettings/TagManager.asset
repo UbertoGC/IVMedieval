@@ -5,9 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemigo
-  - Piso
   - Jugador
-  - JefeNivel1
+  - JefeNivel
+  - Piso
   layers:
   - Default
   - TransparentFX
@@ -15,8 +15,8 @@ TagManager:
   - Piso
   - Water
   - UI
-  - Player
-  - Jefe
+  - 
+  - 
   - 
   - 
   - 
